@@ -4,7 +4,7 @@ This repository contains the codes for Numerical Integration using **MPI** and *
 Both **Simpson's Rule** and **Trapezoidal Rule** have been implemented.
 
 The integral  
-$$I = \int_{0}^{1} \frac{4}{1+x^2} \hspace{1mm} dx$
+$$I = \int_{0}^{1} \frac{4}{1+x^2} \hspace{1mm} dx$$
 is evaluated using the above rules. Theoretically, this should give us the value of $${\pi} $$ .
 
 ## Contents
