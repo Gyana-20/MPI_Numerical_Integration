@@ -1,4 +1,4 @@
-# MPI Numerical Integration
+# Program Description
 
 This repository contains the codes for Numerical Integration using **MPI** and **C++**.  
 Both **Simpson's Rule** and **Trapezoidal Rule** have been implemented.
