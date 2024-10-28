@@ -7,7 +7,7 @@ The integral
 $$
 \int_0^1 \frac{4}{1+x^2} dx
 $$
-is evaluated using the above rules. Theoretically, this should give us the value of \( \pi \).
+is evaluated using the above rules. Theoretically, this should give us the value of $ \pi $ .
 
 ## Contents
 
